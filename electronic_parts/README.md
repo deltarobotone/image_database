@@ -27,5 +27,5 @@
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(25).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(25).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(26).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(26).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(27).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(27).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/electronic_parts/electronic_parts%20(28).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(28).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/electronic_parts/electronic_parts%20(28).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/electronic_parts/electronic_parts%20(28).png)
 

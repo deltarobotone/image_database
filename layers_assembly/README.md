@@ -30,4 +30,5 @@
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_assembly/layers_assembly%20(28).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_assembly/layers_assembly%20(28).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_assembly/layers_assembly%20(29).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_assembly/layers_assembly%20(29).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_assembly/layers_assembly%20(30).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_assembly/layers_assembly%20(30).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/layers_assembly/layers_assembly%20(31).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_assembly/layers_assembly%20(31).PNG)
 

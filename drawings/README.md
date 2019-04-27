@@ -25,5 +25,7 @@
 [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(26).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(26).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(27).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(27).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(28).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(28).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(18).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(18).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(19).PNG" width="140">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(19).PNG)
+
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(18).PNG" width="130">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(18).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(19).PNG" width="110">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(19).PNG)

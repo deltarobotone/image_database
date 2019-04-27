@@ -1,6 +1,6 @@
 # Images
 
-* [**** Assembly tools ****](https://github.com/deltarobotone/image_database/tree/master/assembly_tools)
+* [****Assembly tools****](https://github.com/deltarobotone/image_database/tree/master/assembly_tools)
 * [**** Circuit board assembly ****](https://github.com/deltarobotone/image_database/tree/master/circuit_board_assembly)
 * [**** Drawings ****](https://github.com/deltarobotone/image_database/tree/master/drawings)
 * [**** Electronics parts ****](https://github.com/deltarobotone/image_database/tree/master/electronic_parts)

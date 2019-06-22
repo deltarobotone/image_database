@@ -1,7 +1,9 @@
 # Images
 
 * [****Assembly tools****](https://github.com/deltarobotone/image_database/tree/master/assembly_tools)
+* [****Black Edition****](https://github.com/deltarobotone/image_database/tree/master/black_edition)
 * [****Circuit board assembly****](https://github.com/deltarobotone/image_database/tree/master/circuit_board_assembly)
+* [****Circuit board schematics****](https://github.com/deltarobotone/image_database/tree/master/circuit_board_schematics)
 * [****Drawings****](https://github.com/deltarobotone/image_database/tree/master/drawings)
 * [****Electronics parts****](https://github.com/deltarobotone/image_database/tree/master/electronic_parts)
 * [****Layers assembly****](https://github.com/deltarobotone/image_database/tree/master/layers_assembly)
@@ -11,6 +13,7 @@
 * [****Mechanics assembly****](https://github.com/deltarobotone/image_database/tree/master/mechanic_assembly)
 * [****Mechanics parts****](https://github.com/deltarobotone/image_database/tree/master/mechanic_parts)
 * [****Metal parts****](https://github.com/deltarobotone/image_database/tree/master/metal_parts)
+* [****Screenshots****](https://github.com/deltarobotone/image_database/tree/master/screenshots)
 * [****Servo Assembly****](https://github.com/deltarobotone/image_database/tree/master/servo_assembly)
 
 # Copyright Notice

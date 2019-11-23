@@ -35,4 +35,4 @@
 [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(18).PNG" width="130">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(18).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(19).PNG" width="120">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(19).PNG)
 ***
-[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(31).PNG" width="120">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(31).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(31).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(31).PNG)

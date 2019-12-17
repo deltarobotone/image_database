@@ -17,7 +17,7 @@
 * [****Servo Assembly****](https://github.com/deltarobotone/image_database/tree/master/servo_assembly)
 * [****Smart Control****](https://github.com/deltarobotone/image_database/tree/master/smart_control)
 * [****Smart Control Mobile Screenshots****](https://github.com/deltarobotone/image_database/tree/master/smart_control_mobile_screenshots)
-
+* [****Icons****](https://github.com/deltarobotone/image_database/tree/master/icons)
 # Copyright Notice
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

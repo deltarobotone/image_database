@@ -16,7 +16,6 @@
 * [****Screenshots****](https://github.com/deltarobotone/image_database/tree/master/screenshots)
 * [****Servo Assembly****](https://github.com/deltarobotone/image_database/tree/master/servo_assembly)
 * [****Smart Control****](https://github.com/deltarobotone/image_database/tree/master/smart_control)
-* [****Smart Control Mobile****](https://github.com/deltarobotone/image_database/tree/master/smart_control_mobile)
 * [****Smart Control Mobile Screenshots****](https://github.com/deltarobotone/image_database/tree/master/smart_control_mobile_screenshots)
 
 # Copyright Notice

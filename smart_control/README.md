@@ -38,3 +38,11 @@
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(19).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(19).png)
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(20).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(20).png)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(21).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(21).png)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(22).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(22).png)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(23).png" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(23).png)
+

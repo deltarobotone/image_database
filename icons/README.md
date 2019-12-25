@@ -30,3 +30,4 @@
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/icons/icons%20(15).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/icons/icons%20(15).png)
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/icons/icons%20(16).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/icons/icons%20(16).png)

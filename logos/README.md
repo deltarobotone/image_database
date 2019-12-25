@@ -27,3 +27,5 @@
 [<img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(13).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/logos/logos%20(13).PNG)
 ***
 [<img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(14).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/logos/logos%20(14).PNG)
+***
+[<img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(15).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/logos/logos%20(15).PNG)

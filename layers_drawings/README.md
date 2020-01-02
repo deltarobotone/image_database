@@ -12,8 +12,6 @@
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(6).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_drawings/layers_drawings%20(6).png)
 
-[<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(6).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_drawings/layers_drawings%20(6).png)
-
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(7).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_drawings/layers_drawings%20(7).png)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(8).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_drawings/layers_drawings%20(8).png)

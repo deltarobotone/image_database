@@ -9,3 +9,9 @@
 [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(4).png" width="800">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(4).png)
 ***
 [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(5).png" width="800">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(5).png)
+***
+[<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(6).png" width="800">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(6).png)
+***
+[<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(7).png" width="800">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(7).png)
+***
+[<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(8).png" width="800">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(8).png)
